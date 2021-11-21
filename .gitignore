@@ -316,3 +316,10 @@ po/*~
 !.vscode/*.code-snippets
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode,jetbrains+all,r
+
+
+# Ignore h5Seurat and h5ad files
+
+*.h5Seurat
+*.h5ad
+**/pbmc*
